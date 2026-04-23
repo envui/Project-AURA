@@ -1,4 +1,4 @@
-# Step 4 – System Integration Report
+# System Integration Report
 **Project A.U.R.A. — Autonomous User-Responsive Assistant**
 CECS 490B Senior Design | Spring 2026 | Team 4
 *Tommy Truong, Anton Tran, Diego Davalos, Anthony Keroles, Kyle Leng, Abbas Mir*
